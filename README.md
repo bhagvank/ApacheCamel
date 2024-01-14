@@ -1,2 +1,2 @@
-# javaexamples
-code examples demonstrating features in java
+# Apache Camel examples
+Apache Camel Examples
